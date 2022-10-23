@@ -17,7 +17,7 @@ from pathlib import Path
 # import cloudinary
 # import cloudinary.uploader
 # import cloudinary.api
-import django_heroku 
+# import django_heroku 
 
 
 
@@ -128,7 +128,7 @@ USE_L10N = True
 USE_TZ = True
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-MEDIA_URL = '/static/images/'
+# MEDIA_URL = '/static/images/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images')
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
@@ -140,4 +140,4 @@ STATICFILES_DIRS = [
 ]
 
 
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
