@@ -17,7 +17,7 @@ from pathlib import Path
 # import cloudinary
 # import cloudinary.uploader
 # import cloudinary.api
-import django_heroku 
+# import django_heroku 
 
 
 
@@ -34,8 +34,8 @@ SECRET_KEY = 'bz28yb5yaw37@=!@&3e@e)1a)p1!_zt)wxs5a8*s%qhv21&sjk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['*',]
+ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = ['*',]
 
 
 
@@ -140,5 +140,6 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
 ]
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
