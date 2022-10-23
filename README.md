@@ -10,10 +10,10 @@ GITHUB - [ELVIS](https://github.com/DynastyElvis)
   
  
 ##  Live Link  
- Click [View Site](https://elvis-awwards.herokuapp.com/)  to visit the site
+ Click [View Site](https://elvis-inventory-system.herokuapp.com/)  to visit the site
 
 
-[Go Back to the top](#Awwards-App)
+[Go Back to the top](#Inventory-Management-System)
 
 ## Screenshots 
 ###### User DASHBOARD
