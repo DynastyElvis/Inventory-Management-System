@@ -30,9 +30,9 @@ GITHUB - [ELVIS](https://github.com/DynastyElvis)
 
 
  ###### Admin superuser Section authentication
- <img src="https://raw.githubusercontent.com/DynastyElvis/Inventory-Management-System/main/Files/Screenshot%20from%202022-10-23%2023-15-00.png>
+ <img src="https://raw.githubusercontent.com/DynastyElvis/Inventory-Management-System/main/Files/Screenshot%20from%202022-10-23%2023-15-00.png">
 
  ###### Admin Excel file importation for file inventory management
- <img src="https://raw.githubusercontent.com/DynastyElvis/Inventory-Management-System/main/Files/Screenshot%20from%202022-10-23%2023-15-22.png>
+ <img src="https://raw.githubusercontent.com/DynastyElvis/Inventory-Management-System/main/Files/Screenshot%20from%202022-10-23%2023-15-22.png">
 
 
