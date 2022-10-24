@@ -12,12 +12,14 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 
 import os
 from pathlib import Path
-# from decouple import config,Csv
-# import dj_database_url
+from decouple import config,Csv
+import dj_database_url
 # import cloudinary
 # import cloudinary.uploader
 # import cloudinary.api
 # import django_heroku 
+# import django_on_heroku
+
 
 
 
@@ -143,3 +145,4 @@ STATICFILES_DIRS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # django_heroku.settings(locals())
+# django_on_heroku.settings(locals())

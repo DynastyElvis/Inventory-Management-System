@@ -184,10 +184,10 @@ def user_profile(request, username):
     }
     return render(request, 'userprofile.html', params)
 
-def profile(request):
-    user=request.user
-    my_profile=Profile.objects.get(user=user)
-    return render(request,"profile.html",{'my_profile':my_profile,"user":user})
+# def profile(request):
+#     user=request.user
+#     my_profile=Profile.objects.get(user=user)
+#     return render(request,"profile.html",{'my_profile':my_profile,"user":user})
 
 def signout(request):
     logout(request)
